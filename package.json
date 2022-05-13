@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "29": "nodemon src/29-api-falsa/server.js"
+    "29": "nodemon src/29-api-falsa/server.js",
+    "31": "nodemon src/31-api-de-bromas/server.js"
   },
   "keywords": [],
   "author": "",
@@ -23,6 +24,7 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3"
   }
 }
