@@ -1,3 +1,3 @@
 # 29-api-falsa
 
-### En el terminal ejecutar `npm run 29`
+### En la terminal ejecutar el comando `npm run 29`
