@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 const mondoUri =
-   'mongodb+srv://oscarrcs123:SKA3MGzTO1MJEff9@curso-mongodb.z8q4g.mongodb.net/jokes'
+   'mongodb+srv://oscarrcs123:SKA3MGzTO1MJEff9@curso-mongodb.z8q4g.mongodb.net/coding-dojo'
 
 const DBConnection = async () => {
    try {
