@@ -1,3 +1,3 @@
 # 29-api-falsa
 
-### En la terminal ejecutar el comando `npm run 29`
+### En la raíz del proyecto, abrir una termina terminal y ejecutar el comando `npm run 29`
